@@ -40,9 +40,9 @@ int main()
 {
     ios_base::sync_with_stdio(0); 
     cin.tie(0);
-    int arr[]={0,1,2};
+    int arr[]={0,1,2,3};
     vin v;
-    print_subsequences(arr,v,0,3);
+    print_subsequences(arr,v,0,4);
 return 0;
 
 }
